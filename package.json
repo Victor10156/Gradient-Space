@@ -2,7 +2,7 @@
   "name": "gradient-space-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Victor10156.github.io/Gradient-Space",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
